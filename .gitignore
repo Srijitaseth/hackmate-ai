@@ -1,0 +1,22 @@
+# Node
+node_modules
+
+# Frontend (Expo)
+hackmate-ai/.expo
+hackmate-ai/dist
+hackmate-ai/.web-build
+
+# Env files
+backend/.env
+hackmate-ai/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode
